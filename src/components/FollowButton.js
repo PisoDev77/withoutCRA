@@ -1,3 +1,4 @@
+import React from "react";
 
 function FollowButton(){
 
@@ -8,3 +9,5 @@ function FollowButton(){
         </P>
     );
 }
+
+export default FollowButton;
